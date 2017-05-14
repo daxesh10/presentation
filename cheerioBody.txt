@@ -1,0 +1,1006 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>BitConnectCoin</title>
+    <meta name="twitter:site" content="@Bitconnectcoincoin.co">
+    <meta name="twitter:creator" content="@Bitconnectcoincoin.co">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:url" content="https://bitconnectcoin.co/" />
+    <meta property="og:title" content="BitConnect Coin The Cryptocurrency Revolution." />
+    <meta name="description" content="BitConnect coin is an open source, peer-to-peer, community driven decentralized cryptocurrency that allow people to store and invest their wealth in a non-government controlled currency, and even earn a substantial interest on investment.">
+    <meta property="og:description" content="BitConnect coin is an open source, peer-to-peer, community driven decentralized cryptocurrency that allow people to store and invest their wealth in a non-government controlled currency, and even earn a substantial interest on investment.">
+    <meta property="og:image" content="https://bitconnectcoin.co/assets/images/bitconnect-coin.png?v=154545" />
+    <meta name="twitter:description" content="BitConnect coin is an open source, peer-to-peer, community driven decentralized cryptocurrency that allow people to store and invest their wealth in a non-government controlled currency, and even earn a substantial interest on investment.">
+    <meta name="twitter:title" content="BitConnect Coin The Cryptocurrency Revolution.">
+    <meta name="twitter:image" content="https://bitconnectcoin.co/assets/images/bitconnect-coin.png?v=154545">
+
+    <!--Captcha js-->
+    <style>
+      body {
+        font-family: sans-serif;
+      }
+      
+      .dn {
+        display: none;
+      }
+    </style>
+
+    <!--[if lt IE 9]>
+      <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+    <link rel="stylesheet" type="text/css" href="https://bitconnectcoin.co/themes/default/css/combine.css?v=87784547874">
+    <link href="https://bitconnectcoin.co/themes/default/css/custom.css?v=45457" rel="stylesheet">
+
+    <!--<link rel="stylesheet" type="text/css" href="">
+    <link rel="stylesheet" type="text/css" href="">
+    <link rel="stylesheet" type="text/css" href="">
+    <link rel="stylesheet" type="text/css" href="">
+    <link rel="stylesheet" type="text/css" href="">
+    <link rel="stylesheet" type="text/css" href="">
+    <link rel="stylesheet" type="text/css" href="">
+    <link rel="stylesheet" type="text/css" href="">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>-->
+
+    <!-- FAVICON -->
+    <link rel="shortcut icon" href="https://bitconnectcoin.co/favicon.png">
+    <script src="https://bitconnectcoin.co/themes/default/js/jquery.min.js"></script>
+  </head>
+  <header id="topnav" class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation">
+          <span class="sr-only">Toggle navigation</span> 
+          <span class="icon-bar"></span> 
+          <span class="icon-bar"></span> 
+          <span class="icon-bar"></span> 
+        </button>
+        <div id="logo">
+          <a href="https://bitconnectcoin.co/" class="navbar-brand" id="#">
+            <img src="https://bitconnectcoin.co/themes/default/images/bg/bitconnect-coin.png" class="img-responsive " style="margin-top: 10px;">
+          </a> 
+        </div>
+      </div>
+      <div class="collapse navbar-collapse" id="navigation">
+        <ul class="nav navbar-nav " id="nav">
+          <li> <a href="https://bitconnectcoin.co/" id="#">Home</a>  </li>
+          <li> <a href="https://bitconnectcoin.co/.#about" id="About">About</a>  </li>
+          <li> <a href="https://bitconnectcoin.co/.#services" id="Features">Feature</a>  </li>
+          <li> <a href="https://bitconnectcoin.co/download" id="Download">Download</a>  </li>
+          <li> <a href="https://bitconnectcoin.co/.#mining" id="Mining">Mining</a>  </li>
+          <li> <a href="https://bitconnectcoin.co/press-releases" id="Press Release">PR</a>  </li>
+
+          <!--<li> <a href="#clients">Our Partners</a>  </li>-->
+          <li> <a href="#" id="news">News</a>  </li>
+
+          <!-- <li> <a href=".#portfolio">Explorer</a>  </li>-->
+
+          <!--<li> <a href=".#faqs">FAQ</a>  </li>-->
+          <li> <a href="https://bitconnectcoin.co/ico-presale" id="ico">ICO</a>  </li>
+          <li> <a href="https://bitconnectcoin.co/roadmap" id="roadmap">Roadmap</a>  </li>
+          <li> <a href="https://bitconnectcoin.co/guide/10/How-To-Set-Up-BitConnect-Coin-Wallet-on-Windows-Operating-System" id="guide">Guide</a>  </li>
+          <li>
+            <a style="color: #ff934e; font-weight: bold;" href="https://bitconnect.co/login" id="login-bitconnect">
+              <i class="fa fa-fw"></i>Login</a> 
+          </li>
+          <li>
+            <a style="color: #ff934e; font-weight: bold;" href="https://bitconnect.co/register" id="signup-bitconnect">
+              <i class="fa fa-fw"></i>Sign Up</a> 
+          </li>
+        </ul>
+      </div>
+    </div>
+  </header>
+  <body>
+    <div class="site-loader">
+      <span></span> 
+      <p>
+        <img src="https://bitconnectcoin.co/themes/default/images/bitconnectcoin-logo.png" </p>
+    </div>
+    <div id="backgrounds">
+      <ul class="slides">
+        <li style="min-height: 950px">
+          <img src="https://bitconnectcoin.co/themes/default/images/bg/main.jpg" alt="">
+        </li>
+      </ul>
+    </div>
+
+    <!-- End Backgrounds -->
+
+    <!-- Slider text -->
+    <div id="home" style="min-height: 950px">
+      <div class="container">
+        <div class="col-md-12" style="text-align: right;margin-right: 20px;padding-top: 35px;font-size: 15px;">
+          <p>
+            <a style="color: #ff934e; margin-right: 6px;" href="https://bitconnect.co/login">
+              <i class="fa fa-fw"></i>Login</a> |
+            <a style="color: #ff934e; margin-right: 6px;" href="https://bitconnect.co/register">
+              <i class="fa fa-fw"></i>Sign Up</a> 
+            <a style="color: #ff934e;" href="https://bitconnectcoin.co/roadmap">
+              <i class="fa fa-road" aria-hidden="true"></i>Roadmap</a>  &nbsp;
+            <a style="color: #ff934e;" href="https://bitconnectcoin.co/guide/10/How-To-Set-Up-BitConnect-Coin-Wallet-on-Windows-Operating-System" id="guide">
+              <i class="fa fa-book" aria-hidden="true"></i>Guide</a> 
+          </p>
+        </div>
+      </div>
+      <div class="slide-caption">
+        <div class="slide-middle" style="padding-top: 4.5%">
+          <div>
+            <img src="https://bitconnectcoin.co/themes/default/images/bg/icon.png" alt="">
+          </div>
+          <div>
+            <img src="https://bitconnectcoin.co/themes/default/images/bg/bitconnect-coin1.png" alt="">
+          </div>
+          <div class="slide-intro">
+            <h3>Welcome</h3>
+            <hr>
+          </div>
+          <div id="home-slider" class="flexslider">
+            <ul class="slides">
+              <li>
+                <h3 style="color: #f57b27">The Cryptocurrency Revolution</h3>
+              </li>
+            </ul>
+          </div>
+          <div style="width: 100%;text-align: center" class="dev-availble-bitconnect-coin">
+            <b style="    font-size: 24px; color: rgba(255, 255, 255, 0.9);">Thank you for your investment</b>
+            </br>
+            <a href="https://bitconnect.co/user/trade?market=BCC" class="btn btn-primary" style="margin-top: 10px">BCC Exchange live</a> 
+            <br>
+            <a href="https://www.blockexperts.com/bcc" target="_blank" class="btn btn-primary" style="margin-top: 10px">Block explorer</a> 
+          </div>
+          <div class="home-text">
+            <p>Empowering people financially by distributing decentralized value.</p>
+            <a href="https://bitconnectcoin.co/download" class="btn btn-empty">Download wallet &nbsp;
+              <i class="fa fa-long-arrow-right"></i>
+            </a> 
+            <div style="margin-top: 15px">
+              <a href="http://bitconnectpool.co/" target="_blank" class="btn btn-empty" title="Bitconnect Mining pool" style="background-color: #4c8e4c;;margin-top: 10px">Mining pool</a> 
+              <a href="https://bitconnectcoin.co/register" class="btn btn-empty" style="background-color: #4c8e4c;margin-top: 10px">Sign Up</a> 
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- End Slider text -->
+
+    <!-- HOME SECTION END -->
+
+    <!-- ABOUT SECTION -->
+
+    <!--<section id="about" class="grey" style="border-bottom: 1px solid rgba(160, 147, 147, 0.28);">
+	<div class="container">
+<div class="panel panel-visible mb10 pn " style="background: transparent;box-shadow: none">
+	<div class="panel-body  " style="margin-top: 0px!important;">
+		<div class="col-lg-6 col-sm-6 col-md-6 col-xs-12 pn" >
+			<div class="panel panel-tile m5 cb_detail pn" style="background: none">
+				<div class="panel-body pn" style="    box-shadow: 1px 2px 5px #888888;
+    background-color: #e48446;
+    color: white;">
+					<div class="row pv10">
+						<div class="col-md-12 w100p text-center ">
+							<h4><span style='font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+								font-size: 20px;'> BCC </span> <span style='display: inline-block;font-size: 14px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;'>( BTC)</span> <div style="color: #efefef;margin-top: 10px">Total Sold Coin</div></h4>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-6 col-sm-6 col-md-6 col-xs-12 pn" >
+			<div class="panel panel-tile m5 cb_detail pn" style="background: none">
+				<div class="panel-body pn" style="    box-shadow: 1px 2px 5px #888888;background-color: #e48446;color: white;">
+					<div class="row pv10">
+						<div class="col-md-12 w100p text-center ">
+							<h4>
+							  <span style='font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;font-size: 20px;'></span>   BCC<div style="color: #efefef;margin-top: 10px">Available for sale</div>
+							</h4>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<style>
+		.coin-distribution{
+			box-shadow: 1px 1px 5px #888888;
+			border-left: 4px solid #f57b27;
+			border-right: 4px solid #f57b27;
+		}
+	</style>
+	<h4 style="margin-top: 30px;text-align: center">BitConnect coin Distribution</h4>
+	<hr style="width: 25px; margin-top: 0; height: 1px; background-color: #f57b27;">
+	<div class="col-xs-12 pn" >
+		<div class="panel panel-tile m5 cb_detail pn" style="background: none">
+			<div class="panel-body pn coin-distribution">
+				<div class="row pv10">
+					<div class="col-md-12 w100p text-center ">
+						November 15th to November 25th <span style="display: inline-block">– 1400 Coins per BTC (40% Bonus)</span> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-xs-12 pn" >
+		<div class="panel panel-tile m5 cb_detail pn" style="background: none">
+			<div class="panel-body pn coin-distribution">
+				<div class="row pv10">
+					<div class="col-md-12 w100p text-center ">
+						November 26th to December 5th <span style="display: inline-block">– 1300 Coins per BTC (30% Bonus)</span> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-xs-12 pn" >
+		<div class="panel panel-tile m5 cb_detail pn" style="background: none">
+			<div class="panel-body pn coin-distribution">
+				<div class="row pv10">
+					<div class="col-md-12 w100p text-center ">
+						December 6th to December 15th <span style="display: inline-block">– 1200 Coins per BTC (20% Bonus)</span> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-xs-12 pn" >
+		<div class="panel panel-tile m5 cb_detail pn" style="background: none">
+			<div class="panel-body pn coin-distribution">
+				<div class="row pv10">
+					<div class="col-md-12 w100p text-center ">
+						December 16th to December 25th <span style="display: inline-block">– 1100 Coins per BTC (10% Bonus)</span> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-xs-12 pn" >
+		<div class="panel panel-tile m5 cb_detail pn" style="background: none">
+			<div class="panel-body pn coin-distribution">
+				<div class="row pv10">
+					<div class="col-md-12 w100p text-center ">
+						December 26th Onwards <span style="display: inline-block">– 1000 Coins per BTC (0% Bonus)</span> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+	</section>-->
+    <section id="about" class="grey">
+      <div class="container">
+        <div class="col-md-6">
+          <div class="section-title-alt">
+            <h3>WHAT IS BITCONNECT COIN?</h3>
+            <hr>
+          </div>
+          <div class="about-text">
+            <p>
+              BitConnect coin is an open source, peer-to-peer, community driven decentralized cryptocurrency that allow people to store and invest their wealth in a non-government controlled currency, and even earn a substantial interest on investment. This means anyone
+              holding BitConnect Coin in their wallet will receive interest on their balance in return for helping maintain security of the network.
+              <a href="https://bitconnectcoin.co/what-is-bitconnect-coin" class="btn btn-empty" style="margin-top: 10px">Read more</a> 
+            </p>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <div class="wrapper-macbook">
+              <img class="img-responsive" src="https://bitconnectcoin.co/themes/default/images/mac-slider/macbook-mockup.png?v=156787" draggable="false" alt="">
+              <div class="wrapper-absolute">
+                <div class="wrapper-slider">
+                  <div id="carousel-mac" class="carousel slide" data-ride="carousel" data-interval="false">
+                    <ol class="carousel-indicators carousel-indicators-iphone">
+                      <li data-target="#carousel-mac" data-slide-to="0" class="active"></li>
+                      <li data-target="#carousel-mac" data-slide-to="1" class=""></li>
+                      <li data-target="#carousel-mac" data-slide-to="2" class=""></li>
+                      <li data-target="#carousel-mac" data-slide-to="3" class=""></li>
+                      <li data-target="#carousel-mac" data-slide-to="4" class=""></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner">
+                      <div class="item active">
+                        <img class="img-slide" src="https://bitconnectcoin.co/assets/images/bitconnect-coin1.jpg?v=87845457" alt="bitconnect-coin">
+                      </div>
+                      <div class="item">
+                        <img class="img-slide" src="https://bitconnectcoin.co/assets/images/bitconnect-coin2.jpg?v=4578645645" alt="bitconnect-coin">
+                      </div>
+                      <div class="item">
+                        <img class="img-slide" src="https://bitconnectcoin.co/assets/images/bitconnect-coin3.jpg?v=4578645645" alt="bitconnect-coin">
+                      </div>
+                      <div class="item">
+                        <img class="img-slide" src="https://bitconnectcoin.co/assets/images/bitconnect-coin4.jpg?v=4578645645" alt="bitconnect-coin">
+                      </div>
+                      <div class="item">
+                        <img class="img-slide" src="https://bitconnectcoin.co/assets/images/bitconnect-coin1.jpg?v=4578645645" alt="bitconnect-coin">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--END  ABOUT SECTION -->
+
+    <!-- STATISTICS SECTION -->
+    <section class="parallax-section counter statistics-bg-image">
+      <div class="parallax-overlay">
+        <div class="container">
+          <div class="section-title">
+            <h2>STATISTICS</h2>
+          </div>
+          <div class=" col-md-3 col-sm-6">
+            <div class="call-download animated" data-animation="bounceIn" data-animation-delay="0">
+              <h1 class="total-number-1">28,000,000</h1>
+              <h3 style="color: #f57b27;font-size: 22px;">Maximum coin supply</h3>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="call-download animated" data-animation="bounceIn" data-animation-delay="0">
+              <h1 class="total-number-1">6374001</h1>
+              <h3 style="color: #f57b27;font-size: 22px;">Available supply</h3>
+            </div>
+          </div>
+          <div class=" col-md-3 col-sm-6">
+            <div class="call-download animated" data-animation="bounceIn" data-animation-delay="0">
+              <h1 class="total-number-1">$8.5145</h1>
+              <h3 style="color: #f57b27;font-size: 22px;">Price</h3>
+            </div>
+          </div>
+          <div class=" col-md-3 col-sm-6">
+            <div class="call-download animated" data-animation="bounceIn" data-animation-delay="0">
+              <h1 class="total-number-1">54271432</span> 
+              </h1>
+              <h3 style="color: #f57b27;
+    font-size: 22px;">Total market cap</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--END STATISTICS SECTION -->
+
+    <!-- FEATURE SECTION -->
+    <section id="services">
+      <div class="container">
+        <div class="section-title">
+          <h2>WHY BITCONNECT COIN?</h2>
+        </div>
+        <div data-wow-delay="0.1s" data-wow-duration="2s" class="row wow fadeIn">
+          <div class="col-md-3 col-sm-6 module_cont">
+            <div class="flip-box-wrap">
+              <div class="flip-box blue_bg">
+                <div class="ifb-flip-box">
+                  <div class="ifb-face ifb-front">
+                    <div class="ifb-flip-box-section ">
+                      <h5>VALUABLE</h5>
+                      <div class="flip-box-icon">
+                        <img src="https://bitconnectcoin.co/assets/images/bitconnect-coin-valuable.png?v=45454">
+                      </div>
+                      <a href="#" class="btn btn-empty-dark btn-lg">KNOW MORE</a> 
+                    </div>
+                  </div>
+                  <div class="ifb-face ifb-back">
+                    <div class="ifb-flip-box-section">
+                      <h5>VALUABLE</h5>
+                      <div class="ifb-desc-back">
+                        <p>The moment you acquire BitConnect Coin it becomes an interest bearing asset.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 module_cont">
+            <div class="flip-box-wrap">
+              <div class="flip-box yellow_bg">
+                <div class="ifb-flip-box">
+                  <div class="ifb-face ifb-front">
+                    <div class="ifb-flip-box-section ">
+                      <h5>BLOCKCHAIN SECURITY</h5>
+                      <div class="flip-box-icon">
+                        <img src="https://bitconnectcoin.co/assets/images/bitconnect-coin-security.png">
+                      </div>
+                      <a href="#" class="btn btn-empty-dark btn-lg">KNOW MORE</a> 
+                    </div>
+                  </div>
+                  <div class="ifb-face ifb-back">
+                    <div class="ifb-flip-box-section">
+                      <h5>BLOCKCHAIN SECURITY</h5>
+                      <div class="ifb-desc-back">
+                        <p>The BitConnect coin network is secured against attacks. The POW/POS system provides the perfect way to secure the BitConnect Coin network and keep it decentralized.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 module_cont">
+            <div class="flip-box-wrap">
+              <div class="flip-box green_bg">
+                <div class="ifb-flip-box">
+                  <div class="ifb-face ifb-front">
+                    <div class="ifb-flip-box-section ">
+                      <h5>FAST TRANSACTIONS</h5>
+                      <div class="flip-box-icon">
+                        <img src="https://bitconnectcoin.co/assets/images/bitconnect-coin-fast-transaction.png?v=544787">
+                      </div>
+                      <a href="#" class="btn btn-empty-dark btn-lg">KNOW MORE</a> 
+                    </div>
+                  </div>
+                  <div class="ifb-face ifb-back">
+                    <div class="ifb-flip-box-section">
+                      <h5>FAST TRANSACTIONS</h5>
+                      <div class="ifb-desc-back">
+                        <p>Send and receive payments anywhere in the World quickly. Quick block execution time ensure unparalleled speed to conventional remittance and payment systems.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6 module_cont">
+            <div class="flip-box-wrap">
+              <div class="flip-box red_bg">
+                <div class="ifb-flip-box">
+                  <div class="ifb-face ifb-front">
+                    <div class="ifb-flip-box-section ">
+                      <h5>DECENTRALIZED</h5>
+                      <div class="flip-box-icon">
+
+                        <!--<i class="icon-globe"></i>-->
+                        <img src="https://bitconnectcoin.co/assets/images/bitconnect-coin-decentralized.png?v=87845487">
+                      </div>
+                      <a href="#" class="btn btn-empty-dark btn-lg">KNOW MORE</a> 
+                    </div>
+                  </div>
+                  <div class="ifb-face ifb-back">
+                    <div class="ifb-flip-box-section">
+                      <h5>DECENTRALIZED</h5>
+                      <div class="ifb-desc-back">
+                        <p>We use decentralized blockchain transaction technology, so no centralized third party to trust.Transactions are performed directly between the users.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- END FEATURES SECTION -->
+
+    <!-- DOENLOAD SECTION-->
+    <section id="download" class="download-bg-image">
+      <div class="container">
+        <div class="section-title">
+          <h2 class="download-wallet">DOWNLOAD THE WALLET</h2>
+          <div class="white-color animated" data-animation="fadeInUp" data-animation-delay="0">START STORING YOUR WEALTH BY DOWNLOADING BITCONNECT COIN WALLET OF YOUR CHOICE.</div>
+        </div>
+        <div class="call-download animated" data-animation="fadeInUp" data-animation-delay="0">
+          <img src="https://bitconnectcoin.co/themes/default/images/bg/download.png" alt="">
+          <div class="bottom-spacing-2"></div>
+          <div>
+            <a href="https://bitconnectcoin.co/download" class="btn btn-empty btn-lg">Download</a> 
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--END DOWNLOAD SECTION -->
+
+    <!-- MINING SECTION -->
+    <section id="mining" class="grey">
+      <div class="container">
+        <div class="row">
+          <div class="text-center">
+            <div class="section-title">
+              <h2>MINING PROCESS</h2>
+            </div>
+          </div>
+        </div>
+        <div class="text-center">
+          <div class="home-text">
+            <button style="margin: 10px" class="btn btn-empty" id="btn-cpu-mining" onclick="document.getElementById('div-cpu-mining').style.display='block';document.getElementById('div-gpu-mining').style.display='none'">POW</button>
+            <button class="btn btn-empty" id="btn-gpu-mining" onclick="document.getElementById('div-cpu-mining').style.display='none';document.getElementById('div-gpu-mining').style.display='block'">POS</button>
+          </div>
+        </div>
+        <div class="bottom-spacing"></div>
+
+        <!-- This div is used for spacing purpose -->
+        <div class="row inner-top-sm dn " id="div-cpu-mining" data-animation="fadeInUp" data-animation-delay="5000">
+          <div class="col-xs-12">
+            <div class="tabs tabs-circle-top tab-container">
+              <ul class="text-center">
+                <li class="tab">
+                  <a href="#tab-1">
+                    <div>1</div>Wallet</a> 
+                </li>
+                <li class="tab">
+                  <a href="#tab-2">
+                    <div>2</div>CPU miner</a> 
+                </li>
+                <li class="tab">
+                  <a href="#tab-3">
+                    <div>3</div>Configure</a> 
+                </li>
+                <li class="tab">
+                  <a href="#tab-4">
+                    <div>4</div>Pool</a> 
+                </li>
+                <li class="tab">
+                  <a href="#tab-5">
+                    <div>5</div>Join</a> 
+                </li>
+              </ul>
+              <div class="panel-container text-center">
+                <div class="tab-content" id="tab-1">
+                  <div class="row">
+                    <div class="col-md-5 col-md-push-5 col-md-offset-1 col-sm-6 col-sm-push-6 inner-left-xs">
+                      <figure>
+                        <img src="https://bitconnectcoin.co/themes/default/images/process/BitConnect_wallet.jpg" alt="">
+                      </figure>
+                    </div>
+                    <div class="col-md-5 col-md-pull-5 col-sm-6 col-sm-pull-6 inner-top-xs inner-right-xs">
+                      <h3>Wallet</h3>
+                      <p>BitConnect coin uses a special algorithm called the POW/POS to secure the BitConnect Coin network. In order to solo mine POW BitConnect coin, you’ll need a
+                        <a href="https://bitconnectcoin.co/download">BitConnect coin wallet</a> .You will need to wait for the blockchain to download if this is your first time using the wallet. Be patient it can take awhile.</p>
+                      <a href="https://bitconnectcoin.co/download" class="btn btn-empty">Download wallet &nbsp;
+                        <i class="fa fa-long-arrow-right"></i>
+                      </a> 
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-content" id="tab-2">
+                  <div class="row">
+                    <div class="col-md-5 col-md-offset-1 col-sm-6 inner-right-xs">
+                      <figure>
+                        <img src="https://bitconnectcoin.co/themes/default/images/process/CPU_miner_bitconnect.jpg" alt="">
+                      </figure>
+                    </div>
+                    <div class="col-md-5 col-sm-6 inner-top-xs inner-left-xs">
+                      <h3>CPU miner</h3>
+                      <p>BitConnect coin can be mined with
+                        <b>CPU/GPU</b> and does not need an ASIC miner like Bitcoin does. It is a more energy efficient crypto currency compared to others, thanks to the use of the POS (proof of stake) system.</p>
+                      <p>
+                        <b>To mine POW, download the CPU miner from:</b>
+                        <div>
+                          <div>Windows 32 :
+                            <a href="https://bitconnectcoin.co/miner/win32-cpuminer.zip">
+                              <i class="fa fa-download"></i> Download</a> 
+                          </div>
+                          <div>Windows 64 :
+                            <a href="https://bitconnectcoin.co/miner/win64-cpuminer.zip">
+                              <i class="fa fa-download"></i> Download</a> 
+                          </div>
+                        </div>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-content" id="tab-3">
+                  <div class="row">
+                    <div class="col-md-5 col-md-push-5 col-md-offset-1 col-sm-6 col-sm-push-6 inner-left-xs">
+                      <figure>
+                        <img src="https://bitconnectcoin.co/themes/default/images/process/configure_bitconnect_miner.jpg" alt="">
+                      </figure>
+                    </div>
+                    <div class="col-md-5 col-md-pull-5 col-sm-6 col-sm-pull-6 inner-top-xs inner-right-xs">
+                      <h3>Configure</h3>
+                      <p>If you want to mine on a
+                        <b>Windows Operating System</b>, then you'll need to create your miner batch file to point to the wallet. Simply open notepad and then copy and paste the following or
+                        <a href="https://bitconnectcoin.co/miner/RunMe.bat">
+                          <b>Download</b>
+                        </a>  this pre-configured
+                        <b>RunMe.bat file</b> and place it in your miners directory.</p>
+                      <p>
+                        <b>minerd --url=http://127.0.0.1:4210 --userpass=YOUR_USER_NAME:YOUR_PASSWORD</b>
+                      </p>
+                      <p>Now save the file as
+                        <b>"RunMe.bat"</b> in the same folder containing your miners application files.</p>
+                      <p>You are now ready to mine first POW BitConnect coin Block, double click on
+                        <b>"RunMe.bat"</b> to start mining.</p>
+                      <a class="btn btn-warning" href="https://bitconnectcoin.co/guide/9/How-to-Mine-BitConnect-Coin-Guide-to-start-BitConnect-Coin-miner">Read More</a> 
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-content" id="tab-4">
+                  <div class="row">
+                    <div class="col-md-5 col-md-push-5 col-md-offset-1 col-sm-6 col-sm-push-6 inner-left-xs">
+                      <figure>
+                        <img src="https://bitconnectcoin.co/themes/default/images/process/Bitconnect_mining_pool.jpg" alt="">
+                      </figure>
+                    </div>
+                    <div class="col-md-5 col-md-pull-5 col-sm-6 col-sm-pull-6 inner-top-xs inner-right-xs">
+                      <h3>Pool</h3>
+                      <p>When mining solo as mention earlier, it takes a bit of luck to 'find' block, but when you do solve block, all of the coins related to that block are yours to keep. While this is enticing for the beginner, you are better off mining
+                        in a pool.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-content" id="tab-5">
+                  <div class="row">
+                    <div class="col-md-5 col-md-offset-1 col-sm-6 inner-right-xs">
+                      <figure>
+                        <img src="https://bitconnectcoin.co/themes/default/images/process/Join_bitconnect_mining_pool.jpg" alt="">
+                      </figure>
+                    </div>
+                    <div class="col-md-5 col-sm-6 inner-top-xs inner-left-xs">
+                      <h3>Join</h3>
+                      <p>Once you are ready to mine BitConnect Coin then it is recommended to join a mining pool. A mining pool are a large group of users who ‘pool’ their recourses together to solve the mathematical solution (finding a block) and the rewards
+                        are distributed proportional to work sent to the pool.</p>
+                      <p>To mine in a pool you first need to join following mining pool:</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row inner-top-sm  dn" id="div-gpu-mining" data-animation="fadeInUp" data-animation-delay="0">
+          <div class="col-xs-12">
+            <div class="tabs tabs-circle-top tab-container">
+              <ul class="etabs text-center">
+                <li class="tab">
+                  <a href="#tab-1">
+                    <div>1</div>Wallet</a> 
+                </li>
+                <li class="tab">
+                  <a href="#tab-2">
+                    <div>2</div>Stake</a> 
+                </li>
+                <li class="tab">
+                  <a href="#tab-3">
+                    <div>3</div>Encryption</a> 
+                </li>
+                <li class="tab">
+                  <a href="#tab-4">
+                    <div>4</div>Unlock</a> 
+                </li>
+                <li class="tab">
+                  <a href="#tab-5">
+                    <div>5</div>Started</a> 
+                </li>
+              </ul>
+              <div class="panel-container text-center">
+                <div class="tab-content" id="tab-1">
+                  <div class="row">
+                    <div class="col-md-5 col-md-push-5 col-md-offset-1 col-sm-6 col-sm-push-6 inner-left-xs">
+                      <figure>
+                        <img src="https://bitconnectcoin.co/themes/default/images/process/BitConnect_wallet.jpg" alt="">
+                      </figure>
+                    </div>
+                    <div class="col-md-5 col-md-pull-5 col-sm-6 col-sm-pull-6 inner-top-xs inner-right-xs">
+                      <h3>Wallet</h3>
+                      <p>In order to mint POS BitConnect coin, you’ll need a
+                        <a href="https://bitconnectcoin.co/download">BitConnect coin wallet</a> .You will need to wait for the blockchain to download if this is your first time using the wallet. Be patient it can take awhile.</p>
+                      <a href="https://bitconnectcoin.co/download" class="btn btn-empty">Download wallet &nbsp;
+                        <i class="fa fa-long-arrow-right"></i>
+                      </a> 
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-content" id="tab-2">
+                  <div class="row">
+                    <div class="col-md-5 col-md-offset-1 col-sm-6 inner-right-xs">
+                      <figure>
+                        <img src="https://bitconnectcoin.co/themes/default/images/process/bitconnect_coin_staking.jpg" alt="">
+                      </figure>
+                    </div>
+                    <div class="col-md-5 col-sm-6 inner-top-xs inner-left-xs">
+                      <h3>Stake</h3>
+                      <p>All you have to do to earn with this method is to hold coins in your Bitconnect-QT wallet. Your earnings are based upon the number of coins, or “stake,” you hold in wallet software. The more you invest, the more you are likely to
+                        earn.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-content" id="tab-3">
+                  <div class="row">
+                    <div class="col-md-5 col-md-offset-1 col-sm-6 inner-right-xs">
+                      <figure>
+                        <img src="https://bitconnectcoin.co/themes/default/images/process/bitconnect_wallet_encryption.jpg" alt="">
+                      </figure>
+                    </div>
+                    <div class="col-md-5 col-sm-6 inner-top-xs inner-left-xs">
+                      <h3>Encryption</h3>(Optional)
+                      <p>Ensure your wallet is encrypted with a good password. A secure password is needed to ensure your coins are safe. The wallet encryption option can be found under the settings tab in the Bitconnect-Qt wallet program. Keep a copy stored
+                        somewhere safe or do not forget it, if you do your coins are lost forever.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-content" id="tab-4">
+                  <div class="row">
+                    <div class="col-md-5 col-md-push-5 col-md-offset-1 col-sm-6 col-sm-push-6 inner-left-xs">
+                      <figure>
+                        <img src="https://bitconnectcoin.co/themes/default/images/process/Unlock_biconnect_wallet.jpg" alt="">
+                      </figure>
+                    </div>
+                    <div class="col-md-5 col-md-pull-5 col-sm-6 col-sm-pull-6 inner-top-xs inner-right-xs">
+                      <h3>Unlock</h3>(Optional)
+                      <p>You will need to unlock your wallet to start minting. Go to the help tab -> debug window -> console and type the following command:</p>
+                      <p>Walletpassphraseyourpassword 9999999 true</p>
+                      <p>You can set this to how long you like (in seconds), but it is best to do it for as long as possible.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-content" id="tab-5">
+                  <div class="row">
+                    <div class="col-md-5 col-md-offset-1 col-sm-6 inner-right-xs">
+                      <figure>
+                        <img src="https://bitconnectcoin.co/themes/default/images/process/Bitconnect_pos_started.jpg" alt="">
+                      </figure>
+                    </div>
+                    <div class="col-md-5 col-sm-6 inner-top-xs inner-left-xs">
+                      <h3>Started</h3>
+                      <p>You can check the minting status of the wallet by viewing the small padlock at the bottom right corner of the client window. After a few minutes, it will show as unlocked. Hover your courser over the padlock to check the minting
+                        status, as it will tell you the wallet is unlocked for minting only.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- END MINING SECTION -->
+
+    <!-- EXCHANGE SECTION -->
+    <section class="parallax-section exchange-bg-image ">
+      <div class="parallax-overlay">
+        <div class="container">
+          <div class="section-title">
+            <h2>EXCHANGES</h2>
+          </div>
+          <div class="call-download  animated section-title" data-animation="fadeInUp" data-animation-delay="0">
+            <p class="white-color">BitConnect coin can be bought and sold both online and offline. However, the most popular way is to exchange them on crypto currency sites where you can buy, sell or exchange BitConnect coin for another digital currency or fiat money.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- END EXCHANGE SECTION -->
+
+    <!-- PRESS RELEASE SECTION -->
+    <section id="press" class="grey">
+      <div class="section-title">
+        <a href="https://bitconnectcoin.co/press-releases">
+          <h2> PRESS RELEASES</h2>
+        </a> 
+      </div>
+      <br>
+      <br>
+      <div class="latest-news">
+        <div class="container">
+          <div class="col-md-12">
+            <div class="row">
+              <div class="col-md-6">
+                <a href="https://bitconnectcoin.co/press-release/84/BitConnect-Price-Increased-by-18x-Within-6-Months-Since-ICO">
+                  <img class="img-responsive" src="https://bitconnectcoin.co/upload/press_release/036.jpg" alt="" style="height: 270px; width:540px;"> </a> 
+                <div class="news-detail">
+                  <div class="row">
+                    <div class="col-md-9">
+                      <h4>
+                        <a href="https://bitconnectcoin.co/press-release/84/BitConnect-Price-Increased-by-18x-Within-6-Months-Since-ICO">BitConnect Price Increased by 18x Within 6 Months Since ICO</a> 
+                      </h4>
+                      <ul class="post-meta">
+                        <h4>
+                          <i class="icon-clock"></i>2017-05-05</h4>
+                      </ul>
+                      <p>The price of BitConnect, better known to traders as BCC, has surged from around $0.5 to $9 within six months since its initial coin offering (ICO) in November of 2016.</p>
+                      <a href="https://bitconnectcoin.co/press-release/84/BitConnect-Price-Increased-by-18x-Within-6-Months-Since-ICO" class="btn btn-empty btn-lg">Read More</a> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <a href="https://bitconnectcoin.co/press-release/83/Bitconnect-Android-App-102-version-Launched">
+                  <img class="img-responsive" src="https://bitconnectcoin.co/upload/press_release/035.jpg" alt="" style="height: 270px; width:540px;"> </a> 
+                <div class="news-detail">
+                  <div class="row">
+                    <div class="col-md-9">
+                      <h4>
+                        <a href="https://bitconnectcoin.co/press-release/83/Bitconnect-Android-App-102-version-Launched">Bitconnect Android App 1.0.2 version Launched</a> 
+                      </h4>
+                      <ul class="post-meta">
+                        <h4>
+                          <i class="icon-clock"></i>2017-05-02</h4>
+                      </ul>
+                      <p>BitConnect 1.0.2 version launched with Coin Exchanger,Bitcoin and BCC Balance Info ,Bitcoin wallet and Nevigation Update.</p>
+                      <a href="https://bitconnectcoin.co/press-release/83/Bitconnect-Android-App-102-version-Launched" class="btn btn-empty btn-lg">Read More</a> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </section>
+
+    <!-- GET IN TOUCH SECTION -->
+    <section id="contact" class="parallax-section">
+      <div class="get-touch-image parallax-overlay">
+        <div class="container">
+          <div class="section-title">
+            <h2 style="color: white;">GET IN TOUCH</h2>
+          </div>
+          <div class="row">
+            <form action="https://bitconnectcoin.co/contact_us/front_content" name="sentMessage" id="contactForm" method="post" accept-charset="utf-8">
+              <input type="hidden" name="ci_csrf_token" value="855956527e1fac4b390fb6b07a25cf07" style="display:none;" />
+              <div class="col-md-7 animated" data-animation="fadeInUp" data-animation-delay="0">
+                <div class="form-group">
+                  <input type="text" class="form-control" placeholder="Your Name" name="name" id="name" required data-validation-required-message="">
+                  <p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group">
+                  <input type="email" class="form-control" placeholder="Your Email" name="email" id="email" required data-validation-required-message="">
+                  <p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group">
+                  <input type="tel" class="form-control" placeholder="Your Phone" name="phone" id="phone" required data-validation-required-message="">
+                  <p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group">
+                  <input type="text" class="form-control" placeholder="Subject" name="subject" id="subject" required data-validation-required-message="">
+                  <p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group">
+                  <textarea class="form-control" placeholder="Your Message" name="message" id="message" required data-validation-required-message=""></textarea>
+                  <p class="help-block text-danger"></p>
+                </div>
+                <div class="g-recaptcha" data-sitekey="6Lf_MxkUAAAAAFIRvZxeoxFsfPosgcmvWvmaVo7r" style="transform:scale(0.7);-webkit-transform:scale(0.7);transform-origin:0 0;-webkit-transform-origin:0 0; margin-top: 10px;"></div>
+                <div id="success"></div>
+                <button type="submit" class="btn btn-empty btn-lg animated" id="btn-contact-us" name="submit" data-animation="bounceIn" data-animation-delay="0">Submit</button>
+              </div>
+            </form>
+
+            <!-- Contact details -->
+            <div class="col-md-5">
+              <div class="form-text animated" data-animation="fadeInUp" data-animation-delay="0">
+                <h4>TECHNICAL SUPPORT</h4>
+                <p class="animated" data-animation="fadeInUp" data-animation-delay="0">
+                  <i class="icon-envelope"></i>support@bitconnectcoin.co</p>
+              </div>
+            </div>
+
+            <!-- Contact details End -->
+            <div class="clearfix"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <style>
+      .day,
+      .minute,
+      .hour,
+      .second {
+        font-size: 50px;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+    </style>
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/js/contact_me.js?v=5487878"></script>
+    <style>
+      body {
+        font-family: sans-serif;
+      }
+      
+      .dn {
+        display: none;
+      }
+    </style>
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/src/jquery.accordion.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <footer>
+      <div class="rights">
+        <div class="small-info">
+          <ul class="social_icons">
+            <li>
+              <a target="_blank" href="https://www.facebook.com/Bitconnect-Coin-1686899834958145/" class="facebook" title="Facebook">
+                <i class="fa fa-facebook"></i>
+              </a> 
+            </li>
+            <li>
+              <a target="_blank" href="https://twitter.com/bitconnect" class="twitter" title="Twitter">
+                <i class="fa fa-twitter"></i>
+              </a> 
+            </li>
+            <li>
+              <a target="_blank" href="https://plus.google.com/109575005310593946672" class="google-plus" title="Google-plus">
+                <i class="fa fa-google-plus"></i>
+              </a> 
+            </li>
+            <li>
+              <a target="_blank" href="https://www.youtube.com/channel/UC21siJ1LcNnAm05ndZq8pDQ" class="youtube" title="Youtube">
+                <i class="fa fa-youtube"></i>
+              </a> 
+            </li>
+            <li>
+              <a target="_blank" href="https://github.com/bitconnectcoin/bitconnectcoin/blob/master/README.md" class="github" title="Github">
+                <i class="fa fa-github"></i>
+              </a> 
+            </li>
+
+            <!-- <li> <a target="_blank" href="#" class="linkedin"><i class="fa fa-linkedin"></i> </a>  </li>-->
+          </ul>
+        </div>
+        <div>
+          <p style="color: gainsboro;font-size: 11px;">© 2016 bitconnectcoin.co. All Rights Reserved</p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- BACK TO TOP -->
+    <a href="#0" class="back-to-top-link">Top</a> 
+
+    <!-- BACK TO TOP END -->
+
+    <!-- SCRIPTS -->
+    <script>
+      $(function() {
+        $('.example1').accordion({
+          multiOpen: false
+        });
+      });
+    </script>
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/js/owl.carousel.js"></script>
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/js/jquery.appear.js"></script>
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/js/jquery.parallax-1.1.3.js"></script>
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/js/jquery.easytabs.min.js"></script>
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/js/jquery.ajaxchimp.min.js"></script>
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/js/flexslider.js"></script>
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/js/mixitup.js"></script>
+
+    <!-- CONTACT FORM SCRIPT -->
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/js/jqBootstrapValidation.js"></script>
+
+    <!-- MAIN SCRIPT FILE -->
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/js/main.js?v=5448784"></script>
+    <script type="text/javascript" src="https://bitconnectcoin.co/themes/default/src/jquery.accordion.js"></script>
+    <script>
+      $('#topnav a').click(function() {
+        var value = $(this).attr('id');
+        if (value !== 'undefined') {
+          window.location.hash = value; // it appends id to url without refresh
+        }
+      });
+    </script>
+
+    <!-- Google Code for Remarketing Tag -->
+
+    <!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+    <script type="text/javascript">
+      /* <![CDATA[ */
+      var google_conversion_id = 960279207;
+      var google_custom_params = window.google_tag_params;
+      var google_remarketing_only = true;
+      /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+      <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/960279207/?guid=ON&amp;script=0" />
+      </div>
+    </noscript>
+  </body>
+</html>
